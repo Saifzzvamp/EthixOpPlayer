@@ -24,7 +24,7 @@ Veez Music is a telegram bot project that's allow you to play music on telegram 
 
 ### 🧪 Get STRING_SESSION from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Saifzzvamp/StringSession#main.py) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) ``Pyrogram``
 
 ### 🎖 History
 
