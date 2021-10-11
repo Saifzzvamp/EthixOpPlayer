@@ -1,9 +1,9 @@
 {
-    "name": "Veez Music Bot",
-    "logo": "https://telegra.ph/file/9dd9b20abcda2d7bb6725.png",
-    "description": "veez music allow you to stream music trought the telegram voice chat feature.",
+    "name": "ㄒнє 乇яяσя мυѕι¢ ρℓαуєя",
+    "logo": "https://telegra.ph/file/710ddb3cbad34d5e052d3.jpg",
+    "description": "ㄒнє 乇яяσя мυѕι¢ allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/levina-lab/veezmusic",
+    "repository": "https://github.com/Saifzzvamp/EthixOpPlayer",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -37,27 +37,27 @@
         "BOT_USERNAME": {
             "description": "fill with your bot username without @",
             "required": true,
-            "value": "veezmusicbot"
+            "value": "Error_vc_Bot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username without @",
             "required": true,
-            "value": "veezasisstant"
+            "value": "Error_vc_assist"
         },
         "BG_IMAGE": {
             "description": "fill with your costum background image link",
             "required": false,
-            "value": "https://telegra.ph/file/20147c4f049e2c1f2f248.png"
+            "value": "https://telegra.ph/file/5edf50072f0021af83998.jpg"
         },
         "OWNER_NAME": {
             "description": "fill with your username without @",
             "required": false,
-            "value": "dlwrml"
+            "value": "The_Error_XD"
         },
         "ALIVE_NAME": {
             "description": "fill with the nickname of your telegram account",
             "required": false,
-            "value": "Levina"
+            "value": "ㄒнє 乇яяσя мυѕι¢ ρℓαуєя"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -74,17 +74,17 @@
         "DURATION_LIMIT": {
             "description": "max duration for music to download (in minutes).",
             "required": true,
-            "value": "40"
+            "value": "10"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel fill the channel username here without @",
             "required": false,
-            "value": "levinachannel"
+            "value": "LEADERSOF2022"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group fill the group username here without @",
             "required": false,
-            "value": "VeezSupportGroup"
+            "value": "Vamp_is_here"
         }
     },
     "buildpacks": [
